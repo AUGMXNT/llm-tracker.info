@@ -37,12 +37,12 @@ button#explorer {
 }
 
 .folder-outer > ul {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 #explorer-content {
   list-style: none;
-  overflow: hidden;
+  /* overflow: hidden; */
   max-height: none;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;

@@ -10,7 +10,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 const defaultOptions = {
   title: "Explorer",
   folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
+  folderDefaultState: "expanded",
   useSavedState: true,
   mapFn: (node) => {
     return node
